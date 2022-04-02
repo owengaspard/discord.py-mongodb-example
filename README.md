@@ -8,7 +8,9 @@ This bot is meant to be an example of how to use Discord.py to interact with a M
 
 ## Setup the bot
 1. Go to the Discord Developer Portal and create a bot.
-2. Paste the token in `botToken`
+2. Clone the repository
+3. Create a venv and use `pip` to install `discord.py` and `pymongo`.
+4. Paste the token in `botToken`
 
 ## Setup MongoDB
 1. Go to [mongodb.com](https://mongodb.com) and sign up for a free tier account.
