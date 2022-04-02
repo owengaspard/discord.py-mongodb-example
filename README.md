@@ -12,7 +12,6 @@ This bot is meant to be an example of how to use Discord.py to interact with a M
 
 ## Setup MongoDB
 1. Go to [mongodb.com](https://mongodb.com) and sign up for a free tier account.
-[![Screenshot](./screenshots/mongo-db-scr.png)](https://cloud.mongodb.com)
 2. Create a shared database
 3. Change the region to one hosted near where your bot is hosted.
 4. Set your username and password. Make note of them because you will need them. Do not include special characters like @, /, and \ in the password.
