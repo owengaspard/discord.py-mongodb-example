@@ -1,6 +1,8 @@
 # Discord.py MongoDB Integration Example
 This bot is meant to be an example of how to use Discord.py to interact with a MongoDB database.
 
+<a href="https://www.digitalocean.com/?refcode=1216df23cc7f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
 ## Prerequisites
 1. Python
 2. A basic understanding of MongoDB and databases
