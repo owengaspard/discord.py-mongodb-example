@@ -3,6 +3,8 @@ This bot is meant to be an example of how to use Discord.py to interact with a M
 
 <a href="https://www.digitalocean.com/?refcode=1216df23cc7f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
+<a href="https://www.vultr.com/?ref=9172285-8H"><img src="https://www.vultr.com/media/logo_ondark.png?_gl=1*qjtnzw*_ga*MTg4MTcwODE0MS4xNjU2NjM5MDA5*_ga_K6536FHN4D*MTY1NjYzOTAwOS4xLjEuMTY1NjYzOTU4Ni4w" alt="Vultr Referral Badge" /></a>
+
 ## Prerequisites
 1. Python
 2. A basic understanding of MongoDB and databases
